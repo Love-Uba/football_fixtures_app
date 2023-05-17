@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/decagon/Desktop/GoMoneyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/competition_item.xml",
+        "source": "/Users/decagon/Desktop/GoMoneyApplication/app/src/main/res/layout/competition_item.xml"
+    },
+    {
+        "merged": "/Users/decagon/Desktop/GoMoneyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/decagon/Desktop/GoMoneyApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/decagon/Desktop/GoMoneyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_match_list.xml",
+        "source": "/Users/decagon/Desktop/GoMoneyApplication/app/src/main/res/layout/fragment_match_list.xml"
+    },
+    {
+        "merged": "/Users/decagon/Desktop/GoMoneyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_match_details.xml",
+        "source": "/Users/decagon/Desktop/GoMoneyApplication/app/src/main/res/layout/fragment_match_details.xml"
+    },
+    {
+        "merged": "/Users/decagon/Desktop/GoMoneyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/game_item.xml",
+        "source": "/Users/decagon/Desktop/GoMoneyApplication/app/src/main/res/layout/game_item.xml"
+    }
+]
